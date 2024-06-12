@@ -1,0 +1,36 @@
+root, login, 2022/08/30 15:29:15
+root, Register an user: UID:0  Role:Manager  apW:-  Name:Dog  Tel:0126839657, 2022/08/30 15:30:04
+root, Register an user: UID:1  Role:Customer  apW:300.00  Name:Cat  Tel:0193628643, 2022/08/30 15:34:14
+root, Add Food:Rice  Price:1.00, 2022/08/30 15:34:38
+root, Add Beverage:Milo  Price:2.50, 2022/08/30 15:34:49
+root, Add Beverage:Coki  Price:3.00, 2022/08/30 15:35:38
+root, log out, 2022/08/30 15:35:42
+0, login, 2022/08/30 15:35:47
+0, Add Food:Nasi Lemak  Price:3.50, 2022/08/30 15:36:03
+0, Del Beverage:Coki  Price:3.00, 2022/08/30 15:36:10
+0, Add Beverage:Coke  Price:3.00, 2022/08/30 15:36:21
+0, Register an user: UID:2  Role:Customer  apW:200.00  Name:Snake  Tel:0165653379, 2022/08/30 15:37:01
+0, Register an user: UID:3  Role:Customer  apW:0.00  Name:Mouse  Tel:0199968836, 2022/08/30 15:37:36
+0, log out, 2022/08/30 15:38:18
+1, login, 2022/08/30 15:38:25
+1, Make an order: Order ID:0  Total: RM 18.00, 2022/08/30 15:38:40
+1, log out, 2022/08/30 15:38:49
+2, login, 2022/08/30 15:39:03
+2, Make an order: Order ID:1  Total: RM 15.50, 2022/08/30 15:39:25
+2, Make an order: Order ID:2  Total: RM 11.50, 2022/08/30 15:39:58
+2, Make Payment: Order ID:2  Total: RM 11.50, 2022/08/30 15:40:17
+2, log out, 2022/08/30 15:40:51
+3, login, 2022/08/30 15:41:02
+3, Make an order: Order ID:3  Total: RM 12.50, 2022/08/30 15:41:42
+3, Make an order: Order ID:4  Total: RM 22.00, 2022/08/30 15:42:15
+3, log out, 2022/08/30 15:42:23
+1, login, 2022/08/30 15:42:26
+1, log out, 2022/08/30 15:42:29
+0, login, 2022/08/30 15:42:33
+0, Collect Payment: Order ID:4  Total: RM 22.00, 2022/08/30 15:42:47
+0, Update Profile:  Username:Dog to Dog  Password:******  Tel:019556793 to 019556793, 2022/08/30 15:49:03
+0, log out, 2022/08/30 15:49:08
+3, login, 2022/08/30 15:49:28
+3, Update Profile:  Username:Rat to Rat  Password:******  Tel:0199968836 to 0199968836, 2022/08/30 15:49:37
+3, log out, 2022/08/30 15:49:42
+

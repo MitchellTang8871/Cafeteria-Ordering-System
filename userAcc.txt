@@ -1,0 +1,4 @@
+0, abc, Manager, -, Dog, 019556793
+1, abc, Customer, 300.00, Cat, 0193628643
+2, abc, Customer, 188.50, Snake, 0165653379
+3, abc, Customer, 0.00, Rat, 0199968836

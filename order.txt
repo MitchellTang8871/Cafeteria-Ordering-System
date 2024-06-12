@@ -1,0 +1,5 @@
+0, 1, 2022-08-30, 18.00, Pending, Rice, 1.00, Nasi Lemak, 3.50, Rice, 1.00, Nasi Lemak, 3.50, Coke, 3.00, Coke, 3.00, Coke, 3.00
+1, 2, 2022-08-30, 15.50, Pending, Milo, 2.50, Milo, 2.50, Milo, 2.50, Milo, 2.50, Milo, 2.50, Coke, 3.00
+2, 2, 2022-08-30, 11.50, Paid, Rice, 1.00, Nasi Lemak, 3.50, Nasi Lemak, 3.50, Nasi Lemak, 3.50
+3, 3, 2022-08-30, 12.50, Pending, Rice, 1.00, Rice, 1.00, Rice, 1.00, Rice, 1.00, Rice, 1.00, Milo, 2.50, Milo, 2.50, Milo, 2.50
+4, 3, 2022-08-30, 22.00, Paid, Milo, 2.50, Coke, 3.00, Milo, 2.50, Coke, 3.00, Milo, 2.50, Coke, 3.00, Milo, 2.50, Coke, 3.00
